@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Server.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dev.iu7.bmstu.ru</Value>
+    </Setting>
+    <Setting Name="POP" Type="System.Int16" Scope="User">
+      <Value Profile="(Default)">10110</Value>
+    </Setting>
+    <Setting Name="SMTP" Type="System.Int16" Scope="User">
+      <Value Profile="(Default)">10025</Value>
+    </Setting>
+    <Setting Name="To" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mbox355-01@dev.iu7.bmstu.ru</Value>
+    </Setting>
+    <Setting Name="From" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mbox355-00@dev.iu7.bmstu.ru</Value>
+    </Setting>
+    <Setting Name="Login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mbox355-00@dev.iu7.bmstu.ru</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">rRmB5</Value>
+    </Setting>
+    <Setting Name="Database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=(local)\SQLEXPRESS;Initial Catalog=Database;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
